@@ -1,4 +1,4 @@
-package br.com.checklist.checklist
+package br.com.flaviopavim.checklist
 
 import io.flutter.embedding.android.FlutterActivity
 
